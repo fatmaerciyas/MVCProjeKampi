@@ -1,0 +1,35 @@
+﻿@model EntityLayer.Concrete.Category
+
+@{
+    ViewBag.Title = "EditCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+@using (Html.BeginForm("EditCategory", "AdminCategory", FormMethod.Post)) //metod,controller,ne yapinca calissin
+{
+<div class="form-group">
+    <br />
+    @Html.Hidden("Kategori ID")
+    @Html.TextBoxFor(x => x.CategoryID, new { style = "display: none" })
+    @Html.ValidationMessageFor(x => x.CategoryID)
+    <br />
+    @Html.Label("Kategori Adı")
+    @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CategoryName)
+    <br />
+    @Html.Label("Açıklamayı Yazınız")
+    @Html.TextAreaFor(x => x.CategoryDescription, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CategoryDescription)
+    <br />
+    <button id="btn1" class="btn btn-success">Güncelle</button>
+    
+</div>
+<script>
+    $('#btn1').click(function () {
+        swal("Güncellendi!", "Başarılı bir şekilde güncellendi!", "success");
+    });
+</script>
+   
+}
+

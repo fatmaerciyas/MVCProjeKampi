@@ -1,0 +1,11 @@
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Debug\EntityLayer.pdb

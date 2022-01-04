@@ -1,0 +1,29 @@
+﻿@using EntityLayer.Concrete
+@model List<Content>
+@{
+    ViewBag.Title = "GetAllContent";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+@using(Html.BeginForm("GetAllContent","Content",FormMethod.Post))
+{
+    <p>
+        Ara: @Html.TextBox("p")
+        <input type="submit" value="Ara"/>
+    </p>
+    
+
+}
+
+@foreach (var item in Model)
+{
+    
+    <br/>
+<div style="background-color: #B0C4DE; border: 3px solid #33475b; margin: 0px 60px 15px 5px; ">
+    
+    <p>@item.ContentValue</p>
+</div>
+}
+<br/>

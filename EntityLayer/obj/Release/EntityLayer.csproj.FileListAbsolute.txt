@@ -1,0 +1,12 @@
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\fatma\source\repos\ExampleWebProject\EntityLayer\obj\Release\EntityLayer.pdb
